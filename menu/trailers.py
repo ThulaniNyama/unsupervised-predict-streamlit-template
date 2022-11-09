@@ -9,7 +9,7 @@ def vids():
     # embed a youtube video
     if year == 2022:
         with st.expander('Top 10 Best Movies 2022'):
-            st_player('https://youtu.be/ZTv5lBU6qQ0')
+            st_player('https://youtu.be/JAxj25X2EFA')
             st.write('**Which movies did you like?**')
             coms.commenter('Top 10 Best Movies 2022')
     if year >= 2021:
